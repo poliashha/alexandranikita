@@ -114,6 +114,7 @@ body {
   gap: 24px;
   align-items: center;
   justify-content: center;
+  padding: 0 20px;
 }
 
 .date-text {
